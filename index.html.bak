@@ -57,11 +57,10 @@
       <li>Ningyu He, Ruiyi Zhang, Lei Wu, Haoyu Wang, Xiapu Luo, Yao Guo, Ting
         Yu, and Xuxian Jiang: "EOSAFE: Security Analysis of EOSIO Smart
         Contracts." To appear in USENIX Security, 2021.</li>
-      <li>Lun-Pin Yuan, Euijin Choo, Ting Yu, Issa Khalil, and
-        Sencun Zhu: "Time-Window Based Group-Behavior Supported
-        Method for Accurate Detection of Anomalous Users." To appear in
-        IEEE/IFIP International Conference on Dependable Systems and Networks
-        (DSN), 2021.</li>
+      <li>Lun-Pin Yuan, Euijin Choo, Ting Yu, Issa Khalil, and Sencun Zhu:
+        "Time-Window Based Group-Behavior Supported Method for Accurate
+        Detection of Anomalous Users." To appear in IEEE/IFIP International
+        Conference on Dependable Systems and Networks (DSN), 2021.</li>
       <li>Pengcheng Xia, Mohamed Nabeel, Issa Khalil, Haoyu Wang, and Ting Yu:
         "Identifying and Characterizing COVID-19 Themed Malicious Domain
         Campaigns." To appear in ACM Conference on Data and Application Security
@@ -73,7 +72,12 @@
     </ul>
     <h3>Patents</h3>
     <ul>
-      <li>Issa Khalil, Ting Yu and Marc C. Dacier, "Method to identify malicious web domain names thanks to their dynamics," US10681070B2, Issued on June 9, 2020.</li>
+      <li>Mohamed Nabeel, IssaM. Khalil, Ting Yu and Euijin Choo, "Method and
+        system for domain maliciousness assessment via real-time graph
+        inference," US20200382533, Pending. </li>
+      <li>Issa Khalil, Ting Yu and Marc C. Dacier, "Method to identify malicious
+        web domain names thanks to their dynamics," US10681070, Issued on June
+        9, 2020.</li>
       <li>Graham Cormode, Divesh Srivastava, Ting Yu and Qing Zhang, "Method and
         apparatus for providing anonymization of data," US8590049, issued on
         Nov. 19, 2013 </li>
